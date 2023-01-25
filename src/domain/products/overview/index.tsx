@@ -68,7 +68,7 @@ const Overview = () => {
               onClick={() => openImportModal()}
             >
               <UploadIcon size={20} />
-              Import Products
+              Cica Import Midocean Products
             </Button>
             <Button
               variant="secondary"
